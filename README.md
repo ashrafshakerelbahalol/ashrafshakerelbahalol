@@ -1,5 +1,5 @@
 ![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQHbD6f5zNSs3w/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1690052356563?e=2147483647&v=beta&t=shp3nWfqgozR594qlpqJraUTA21Mj-EeY-dADtmDUwY)
-<h1 align="center">Hi 👋, I'm ِ Ashraf Shaker</h1>
+<h1 align="center">Hi 👋, I'm Ashraf Shaker</h1>
 <h3 align="center">A java backend developer from Egypt</h3>
 <img align= "right" alt="coding" width="400" src ="https://camo.githubusercontent.com/a615ccee1fede08a3322b260a6c9b09fa7c9d76bb410469650b284ebebcaef57/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966"></img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashrafshakerelbahalol&label=Profile%20views&color=0e75b6&style=flat" alt="ashrafshakerelbahalol" /> </p>
